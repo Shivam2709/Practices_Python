@@ -39,8 +39,6 @@ def chaicoder(num):
         return x ** num
     return actual
 
-
-
 f = chaicoder(2)
 g = chaicoder(3)
 
